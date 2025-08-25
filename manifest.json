@@ -1,0 +1,23 @@
+{
+  "short_name": "Sầu Riêng AI",
+  "name": "Chuyên Gia Sầu Riêng AI",
+  "description": "Một ứng dụng AI chuyên tạo ra các bài viết kỹ thuật chuyên sâu về cây sầu riêng.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4A7856",
+  "background_color": "#EAF3ED"
+}
